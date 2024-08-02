@@ -1,4 +1,4 @@
-![소개]([인트로페이지_이미지_대체_텍스트](https://github.com/wonilkim0517/botoxReadme/blob/main/images/livescore.png))
+![소개](https://github.com/wonilkim0517/botoxReadme/blob/main/images/livescore.png)
 
 # 목차
 
