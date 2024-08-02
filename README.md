@@ -1,4 +1,4 @@
-![소개](https://github.com/wonilkim0517/botoxReadme/blob/main/images/livescore.png | width=200)
+![소개](https://github.com/wonilkim0517/botoxReadme/blob/main/images/livescore.png)
 
 # 목차
 
