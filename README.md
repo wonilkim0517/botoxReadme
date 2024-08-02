@@ -1,4 +1,4 @@
-![소개](![강수민](https://github.com/your-username/your-repo-name/raw/main/images/강수민.jpg | width=200)
+(![소개](https://github.com/your-username/your-repo-name/raw/main/images/강수민.jpg | width=200)
 
 # 목차
 
