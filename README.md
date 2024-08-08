@@ -1,4 +1,4 @@
-![소개](https://github.com/wonilkim0517/botoxReadme/blob/main/images/livescore.png)
+![소개](https://github.com/wonilkim0517/botoxReadme/blob/main/images/botox.png)
 
 # 목차
 
@@ -13,19 +13,14 @@
 
 ## 📖 개요
 
-👋 SSAFY 9기/2학기 자율 프로젝트 👋
+👋 botox 프로젝트 👋
 
-PostMan의 오픈소스 서비스를 개발해보자
+채팅과 보이스가 가능한 서비를 개발해보자
 
-> 2023.10.09 ~ 2023.11.17 (6주)
+> 2024.06 ~ 2024.08 (6주)
 
 [🔼 목차로 돌아가기](#목차)
-
 ## 💡 프로젝트 기획
-
-### UCC
-
-[SAPIER UCC 영상 링크]
 
 ### 배경
 
@@ -67,7 +62,7 @@ PostMan의 오픈소스 서비스를 개발해보자
 - Spring Boot 3.1.5
 - Gradle 8.3
 - JPA
-- IntelliJ IDEA 2023.2.5 (Ultimate Edition)
+- IntelliJ IDEA 2024.1.2 (Ultimate Edition)
 - Lombok
 - Mail
 - JWT
@@ -76,7 +71,7 @@ PostMan의 오픈소스 서비스를 개발해보자
 
 ### Database
 
-- MongoDB 7.0.2
+- MySQL 8.0
 - Redis 7.2.2
 
 ### Infra
@@ -84,9 +79,6 @@ PostMan의 오픈소스 서비스를 개발해보자
 - AWS EC2 (Ubuntu 20.04 LTS)
 - Nginx 1.18.0
 - GitLab CICD
-- Jenkins 2.429
-- Docker 24.0.6
-
 [🔼 목차로 돌아가기](#목차)
 
 # 구현
@@ -268,7 +260,7 @@ PostMan의 오픈소스 서비스를 개발해보자
 
 ## 👦 팀원
 
-| 강수민 | 김승용 | 김재원 | 조성락(팀장) | 천원준 | 최경인 |
+| 김원일 | 강건 | 김동욱 | 백동렬(팀장) | 신은섭 | 서영덕 |
 |--------|--------|--------|--------------|--------|--------|
 | ![강수민](강수민_이미지_대체_텍스트) | ![김승용](김승용_이미지_대체_텍스트) | ![김재원](김재원_이미지_대체_텍스트) | ![조성락](조성락_이미지_대체_텍스트) | ![천원준](천원준_이미지_대체_텍스트) | ![최경인](최경인_이미지_대체_텍스트) |
 | FE Leader<br>BackEnd<br>PM<br>Design | BackEnd<br>FrontEnd | FrontEnd<br>Extension | BackEnd<br>FrontEnd<br>Security | BackEnd<br>FrontEnd<br>Infra | BackEnd<br>FrontEnd |
