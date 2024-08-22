@@ -15,7 +15,7 @@
 
 👋 botox 프로젝트 👋
 
-채팅과 보이스가 가능한 서비를 개발해보자
+채팅과 보이스가 가능한 서버를 개발해보자
 
 > 2024.06 ~ 2024.08 (6주)
 
@@ -24,61 +24,52 @@
 
 ### 배경
 
-1. "프로젝트 개발에서 PostMan을 필수로 이용하는데, 4명 이상부터는 요금이 나오는게 부담 돼.."
+1. 친구들과 게임을 하려고 하지만 보이스 채팅을 지원하지 않는 게임이 존재하고, 또한 같이 게임 할 친구를 찾는 유저들이 해당 친구를 찾기 힘들다는 문제들이 존재했습니다.
 
-   기존의 API 테스트 서비스로 가장 유명한 PostMan은 4명 이상부터 요금이 발생합니다. 최저 요금이 인당 월 14달러(약 18,000원)로 간단한 프로젝트에서는 부담이 될 수 있습니다. SAPIER에서는 이러한 API 테스트 서비스를 오픈소스로 구현하는 것을 주제로 하였으며, 무료로 서비스를 이용할 수 있습니다.
-
-2. "프론트 개발에서 API 명세서, VScode, 크롬 창, 메신저...등 켜놔야 할 창이 너무 많아 불편해"
-
-   프론트엔드 개발자는 켜놔야 하는 창이 많아 창 관리가 필수입니다. SAPIER는 크롬 익스텐션 기능을 지원해, API 명세서를 크롬 창 안에서 볼 수 있도록 해서 열린 창 수를 줄일 수 있습니다.
-
-3. "워크스페이스가 많아지면 이름으로 구분해야해서 UI가 조금 불편해지는 것 같아"
-
-   PostMan의 워크스페이스 리스트나 각 요청들의 메소드 및 결과가 직관적인 UI가 아니어서 한 눈에 구분하기 어렵다는 단점이 있습니다. MatterMost의 채널 리스트 UI 등을 참고해 좀더 직관적이고 단순한 UI로 디자인을 개선해보고자 했습니다.
+2. 이를 해결하고자 보이스톡기능과 채팅 기능을 이용하고, 게임별로 방을 생성하여 손쉽게 유저를 구할 수 있는 서비스를 만들고자 기획하였습니다.
 
 [🔼 목차로 돌아가기](#목차)
 
 ## 🌵 빌드 환경
 
-### FrontEnd
+### Backend
 
-- Vue 3.3.7
-- Vite 5.0.0-beta.12
-- VueUse(core) 10.5.0
-- UnoCSS 0.57.1
-- vite-plugin-vue-devtolls 1.0.0-rc
-- typescript 0.57.1
-- Pnpm 8.9.2
-- Pinia 2.1.7
-- Pinia-plugin-persist 1.0.0
-- Pinia-plugin-persistedstate 3.2.0
-- vue-json-pretty 2.2.4
-- vue-router 4.2.5
-- vue3-ts-jsoneditor 2.9.0
-
-### BackEnd
-
-- Java 17 (Azul Zulu version 17.0.9)
-- Spring Boot 3.1.5
-- Gradle 8.3
-- JPA
-- IntelliJ IDEA 2024.1.2 (Ultimate Edition)
+- Java 17
+- Spring Boot 3.1.5 
+- Gradle 
+- Spring Data JPA
+- Spring Security
+- Spring Data Redis
+- MySQL (database)
+- Redis 
+- JWT 
 - Lombok
-- Mail
-- JWT
-- Spring Data MongoDB
-- Swagger
+- WebSocket 
+- Redisson 
+- Kurento 
 
 ### Database
 
 - MySQL 8.0
-- Redis 7.2.2
+- Redis 7.2.2 
 
-### Infra
+### Monitoring and Observability
 
-- AWS EC2 (Ubuntu 20.04 LTS)
-- Nginx 1.18.0
-- GitLab CICD
+- Prometheus
+- Grafana
+- Node Exporter
+- MySQL Exporter
+- Redis Exporter
+- Blackbox Exporter
+
+### Infrastructure and Deployment
+
+- Docker and Docker Compose
+- Nginx (RTMP - HLS)
+
+- Build and Development Tools
+
+- IntelliJ IDEA 
 [🔼 목차로 돌아가기](#목차)
 
 # 구현
@@ -87,7 +78,7 @@
 
 ### Intro
 
-)
+![인트로](인트로_이미지_대체_텍스트)
 
 인트로 페이지 입니다. '시작하기' 버튼을 누르면 로그인 페이지로 이동합니다.
 로그인이 되어있다면 메인 페이지로 이동합니다.
@@ -262,12 +253,12 @@
 
 | 김원일 | 강건 | 김동욱 | 백동렬(팀장) | 신은섭 | 서영덕 |
 |--------|--------|--------|--------------|--------|--------|
-| ![강수민](강수민_이미지_대체_텍스트) | ![김승용](김승용_이미지_대체_텍스트) | ![김재원](김재원_이미지_대체_텍스트) | ![조성락](조성락_이미지_대체_텍스트) | ![천원준](천원준_이미지_대체_텍스트) | ![최경인](최경인_이미지_대체_텍스트) |
+| ![김원일](강수민_이미지_대체_텍스트) | ![강건](김승용_이미지_대체_텍스트) | ![김동욱](김재원_이미지_대체_텍스트) | ![백동렬](조성락_이미지_대체_텍스트) | ![신은섭](천원준_이미지_대체_텍스트) | ![서영덕](최경인_이미지_대체_텍스트) |
 | FE Leader<br>BackEnd<br>PM<br>Design | BackEnd<br>FrontEnd | FrontEnd<br>Extension | BackEnd<br>FrontEnd<br>Security | BackEnd<br>FrontEnd<br>Infra | BackEnd<br>FrontEnd |
 
 ### 팀원 역할 상세
 
-#### 강수민
+#### 김원일
 - BE : Request API 요청 처리
 - FE
   - Request 컴포넌트 구현
@@ -289,7 +280,7 @@
 ## 📣 소감
 
 
-### 최경인
+### 김원일
 언젠가 한번은 프론트 맛좀 봐야지 했었는데 직접 경험해보니 생각외로 쉽지않았다. ( FE는 한번으로 족한다… )
 맡은 파트는 BE + FE 모두 담당한 full stack 이여서 혼자 만들다보니 다른 파트와 공유되는 부분 에서 소통이 부족했던것 같다.
 rdbms 사용하지 않고 nosql만 사용해본적은 처음이였는데 nosql을 효율적으로 사용하는 방법에 대해서 좀 더 익혀봐야할것같다.
