@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/54e2fbe1-d3cf-473f-aa7c-bac6bb1c4334)<p align="middle" >
+<p align="middle" >
   <img width="200px;" src="https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/logo.jpg?alt=media&token=46aada62-533c-4ee0-8b0a-c454d033733f"/>
 </p>
 <h1 align="middle">Botox</h1>
@@ -57,7 +57,8 @@
 <br/>
 
 ## 🔨 프로젝트 구조
-![아키텍처](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.19.37.png?alt=media&token=79093ff3-9c0a-40fd-8721-f0fa54625694)
+![아키텍쳐]<img width="819" alt="image" src="https://github.com/user-attachments/assets/b6f9f03f-eab7-414d-be8e-e5f7fa180e23">
+
 
 <br/>
 
