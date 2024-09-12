@@ -47,6 +47,7 @@
 - **로그인/회원가입** : 유저의 학교,학과 데이터를 입력받아 포트폴리오 관리
 
 ![로그인](https://github.com/user-attachments/assets/bd0727d3-0eeb-4e9b-8bed-bb0e3f4d0c95)
+![회원가입](https://github.com/user-attachments/assets/c06c4aad-b19e-4890-b7e3-96b33c13a8e9)
 
 
 - **마이페이지** : 유저정보, 좋아요 누른 포트폴리오, 자신의 포트폴리오 관리
