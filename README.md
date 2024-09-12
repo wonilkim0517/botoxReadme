@@ -56,6 +56,7 @@
 
 <br/>
 
+
 ## 🔨 프로젝트 구조
 
 **프론트엔드 배포 구조**
@@ -69,42 +70,17 @@
 ## 🔧 Stack
 
 **Frontend(Web)**
-- **Language** : JavaScript, TypeScript
-- **Library & Framework** : React, Styled-Components, Axios, Recoil, React-Quill, React-Rnd, React-To-Pdf
+- **Language** : JavaScript
+- **Library & Framework** : React, Styled-Components, Axios
 - **Deploy**: AWS(S3)
 <br />
 
 **Backend**
 - **Language** : Java 
-- **Library & Framework** : Spring Boot
+- **Library & Framework** : Spring Boot, JWT, WebSocket, Socket.io, WebRTC
 - **Database** : MySQL, Redis
 - **ORM** : JPA
-- **Deploy**: AWS(EC2, RDS), Firebase(Storage)
-
-<br/>
-
-## 💡 기대효과
-
-**자신이 만든 포트폴리오 양식을 웹 사이트에서 관리 및 공유를 할 수 있어 인터넷에 연결만 되어 있다면 언제 어디서든 디자인을 할 수 있다.**
-
-**드래그 앤 드롭 (DND) 기술과 이를 활용하는 법에 대해 학습할 수 있다.**
-
-**데이터 형성과 상태관리, 구축 기술, 서비스 배포에 대해 학습할 수 있다.**
-
-**RESTful API를 적용한 프론트엔드&백엔드 간의 통신을 학습할 수 있다.**
-
-<br/>
-
-## 👍 활용분야
-
-**편의성**: 학생과 취업준비생이 문서 형식에 구애받지 않고 손쉽게 포트폴리오 제작이 가능하다.
-
-**확장성**: 학생과 취업준비생 뿐만 아니라 기업 등의 고유 양식으로도 제공하여 다양한 분야에 활용할 수 있다.
-
-**수익성**: 사용자가 자신의 디자인을 판매해 수익을 창출할 수 있고 운영자는 판매 수수료를 통하여 수익 창출이 가능하다.
-
-**획일화된 양식**: 제출물을 하나의 디자인 양식으로 관리하여 자료를 분류 및 보관하는데 용이하다.
-
+- **Deploy**: AWS(EC2, RDS)
 <br/>
 
 ## 🙋‍♂️ Developer
