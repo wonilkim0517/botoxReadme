@@ -70,7 +70,7 @@
 **Backend**
 - **Language** : Java 
 - **Library & Framework** : Spring Boot
-- **Database** : MySQLDB
+- **Database** : MySQL, Redis
 - **ORM** : JPA
 - **Deploy**: AWS(EC2, RDS), Firebase(Storage)
 
