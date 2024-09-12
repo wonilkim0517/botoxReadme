@@ -57,7 +57,7 @@
 <br/>
 
 ## 🔨 프로젝트 구조
-![아키텍쳐]<img width="819" alt="image" src="https://github.com/user-attachments/assets/b6f9f03f-eab7-414d-be8e-e5f7fa180e23">
+![아키텍쳐](https://github.com/user-attachments/assets/b6f9f03f-eab7-414d-be8e-e5f7fa180e23)
 
 
 <br/>
