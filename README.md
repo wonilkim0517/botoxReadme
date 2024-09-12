@@ -46,7 +46,8 @@
 
 - **로그인/회원가입** : 유저의 학교,학과 데이터를 입력받아 포트폴리오 관리
 
-![로그인](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.38.38.png?alt=media&token=5e34c62b-f65b-469f-84fc-dca665bd96bc)
+![로그인](![image](https://github.com/user-attachments/assets/bd0727d3-0eeb-4e9b-8bed-bb0e3f4d0c95)
+)
 
 - **마이페이지** : 유저정보, 좋아요 누른 포트폴리오, 자신의 포트폴리오 관리
 
