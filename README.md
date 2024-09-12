@@ -1,4 +1,4 @@
-<p align="middle" >
+![image](https://github.com/user-attachments/assets/54e2fbe1-d3cf-473f-aa7c-bac6bb1c4334)<p align="middle" >
   <img width="200px;" src="https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/logo.jpg?alt=media&token=46aada62-533c-4ee0-8b0a-c454d033733f"/>
 </p>
 <h1 align="middle">Botox</h1>
@@ -46,8 +46,8 @@
 
 - **로그인/회원가입** : 유저의 학교,학과 데이터를 입력받아 포트폴리오 관리
 
-![로그인](![image](https://github.com/user-attachments/assets/bd0727d3-0eeb-4e9b-8bed-bb0e3f4d0c95)
-)
+![로그인]((https://github.com/user-attachments/assets/bd0727d3-0eeb-4e9b-8bed-bb0e3f4d0c95)
+
 
 - **마이페이지** : 유저정보, 좋아요 누른 포트폴리오, 자신의 포트폴리오 관리
 
