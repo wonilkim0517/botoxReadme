@@ -32,11 +32,12 @@
 
 - **채팅** : 유저들 간의 채팅 기능 구현
 
-![채팅](https://github.com/user-attachments/assets/7ee34f54-182e-447d-a2c1-f0cc2d0d084a)
+![채팅](https://github.com/user-attachments/assets/ff5388d6-c6f9-4c95-a75f-e65eb429f3de)
 
 - **음성 채팅** : 유저들 간의 음성 채팅 기능 구현
 
-![음성채팅](https://github.com/user-attachments/assets/61ab7e10-d8a7-4e74-9525-3fe0508ba897)
+![음성채팅](https://github.com/user-attachments/assets/793184ae-599d-4b4f-9fb4-9be5484b5c16)
+
 
 <br/>
 
