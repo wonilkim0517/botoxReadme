@@ -3,8 +3,6 @@
 </p>
 <h1 align="middle">게임 매칭, 보이스채팅 사이트 "Botox"</h1>
 
-<br/>
-
 ## 📝 프로젝트 소개 
 ![프로젝트 소개](https://github.com/user-attachments/assets/8809a73b-c62c-4f84-9d2e-14f53eced911)
 
