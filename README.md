@@ -43,8 +43,8 @@
 
 ## 🔨 프로젝트 구조
 
-**서버 구조**
-![서버 구조](https://github.com/user-attachments/assets/a7909c0f-3c4a-4da3-a68d-28fcfff6bce0)
+**멀티 클라우드 Stand-By DB 구축**
+![stand-by DB 구축](https://github.com/user-attachments/assets/a7909c0f-3c4a-4da3-a68d-28fcfff6bce0)
 
 **프론트엔드 배포 구조**
 ![프론트엔드 아키텍쳐](https://github.com/user-attachments/assets/b6f9f03f-eab7-414d-be8e-e5f7fa180e23)
