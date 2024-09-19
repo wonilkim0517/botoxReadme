@@ -75,13 +75,11 @@
 
 ## 🙋‍♂️ Developer
 
-|                                          Backend                                           |                                         Backend                                          |                                         Server/Backend                                          |                                         Frontend                                         |             
+|                                          Backend                                           |                                         Backend                                          |                                      Server/Backend                                      |                                         Frontend                                         |             
 | :----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | 
-| ![image](https://github.com/user-attachments/assets/5a837494-e328-4f5e-86ee-2207533e11f4)
- |  |  |  | 
-|  | ![image](https://github.com/user-attachments/assets/b61d0958-86ec-461a-ac2f-9ded933728eb)
- |  |  | 
-|                            [김원일](https://github.com/wonilkim0517)                            |                           [서영덕](https://github.com/asdfg6548)                           |                          [강건](https://github.com/IWBNN)                          |                         [프론트](https://github.com/tigerlcw)                          |                      )                          |                           
+| ![image](https://github.com/user-attachments/assets/b61d0958-86ec-461a-ac2f-9ded933728eb)  | ![image](https://github.com/user-attachments/assets/b61d0958-86ec-461a-ac2f-9ded933728eb) | ![image](https://github.com/user-attachments/assets/b61d0958-86ec-461a-ac2f-9ded933728eb) | ![image](https://github.com/user-attachments/assets/b61d0958-86ec-461a-ac2f-9ded933728eb) | 
+|                            [김원일](https://github.com/wonilkim0517)                            |                           [서영덕](https://github.com/asdfg6548)                           |                           [강건](https://github.com/IWBNN)                           |                         [프론트](https://github.com/tigerlcw)                          |   
+          |                           
 
 ## 📝 프로젝트 회고록
 <img width="1720" alt="image" src="https://github.com/user-attachments/assets/3f9c56cd-9ef2-45ef-9777-a2ae26c1b112">
