@@ -1,8 +1,8 @@
 <p align="middle" >
   <img width="200px;" src="https://github.com/user-attachments/assets/127e9c2b-d907-44ac-b2ee-70fc43c3ebf1"/>
 </p>
-<h2 align="middle">게임 매칭, 보이스채팅 사이트 "Botox"</h2>
-
+<h1 align="middle">Botox</h1>
+<h3 align="middle">게임 매칭, 보이스채팅 사이트</h3>
 
 <br>
 
