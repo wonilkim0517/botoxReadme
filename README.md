@@ -1,5 +1,5 @@
 <p align="middle" >
-  <img width="200px;" src="https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/logo.jpg?alt=media&token=46aada62-533c-4ee0-8b0a-c454d033733f"/>
+  <img width="200px;" src="https://github.com/user-attachments/assets/127e9c2b-d907-44ac-b2ee-70fc43c3ebf1"/>
 </p>
 <h1 align="middle">Botox</h1>
 <h3 align="middle">게임 매칭, 보이스채팅 사이트</h3>
