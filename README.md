@@ -17,6 +17,11 @@
 <br/>
 
 ## ⭐ 주요 기능
+
+- **회원가입/로그인** : 유저의 회원가입/로그인 기능
+
+![회원가입/로그인](https://github.com/user-attachments/assets/8004ae50-e581-440d-8a23-3d2199b05974)
+
 - **메인페이지** : 메인 페이지, 게임 종류 선택 가능
 
 ![메인페이지](https://github.com/user-attachments/assets/92fbf452-9bff-463b-bdbe-87345aa39348)
@@ -25,30 +30,15 @@
 
 ![게시판](https://github.com/user-attachments/assets/87bb72ee-cefc-4bcf-8ef6-66caea67ee9d)
 
-- **양식 미리보기** : 양식 미리보기 후 불러오기가 가능하며, 좋아요 기능 적용 
+- **채팅** : WebSocket을 활용하여 채팅 기능 구현
 
-![미리보기](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.52.47.png?alt=media&token=7502d5f5-a3c3-4193-a873-620747b7b070)
+![채팅](https://github.com/user-attachments/assets/7ee34f54-182e-447d-a2c1-f0cc2d0d084a)
 
-- **양식 제작** : Drag&Drop 방식으로 이미지, 텍스트, 구분선, 표, 아이콘 등을 이용하여 포트폴리오 제작
+- **음성 채팅** : WebRTC를 활용하여 음성 채팅 기능 구현
 
-![제작페이지](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.53.28.png?alt=media&token=83162f3e-0802-4c65-863e-e907ca6979b3)
-
-- **양식 PDF저장/생성** : 생성한 양식을 PDF형식으로 저장 가능. 태그, 공개 여부, 썸네일 등을 추가하여 사이트에 업로드
-
-![저장페이지](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.54.47.png?alt=media&token=015f9d34-ed1f-4017-8de3-832fb026e0a2)
-
-- **양식 검색** : 제목이나 태그를 통해 포트폴리오 검색
-
-![검색페이지](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.55.21.png?alt=media&token=31460bdc-5cba-4274-a38c-e5a87566aecd)
-
-- **회원가입/로그인** : 유저의 회원가입/로그인 기능
-
-![회원가입/로그인](https://github.com/user-attachments/assets/8004ae50-e581-440d-8a23-3d2199b05974)
+![음성채팅](https://github.com/user-attachments/assets/e3861a85-d60f-4433-8e02-b06e9eff1b82)
 
 
-- **마이페이지** : 유저정보, 좋아요 누른 포트폴리오, 자신의 포트폴리오 관리
-
-![마이페이지](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.46.10.png?alt=media&token=f6ba20e7-9aa8-440e-9bcf-021f0bd07490)
 
 <br/>
 
