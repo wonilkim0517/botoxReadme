@@ -75,11 +75,11 @@
 
 ## 🙋‍♂️ Developer
 
-|                                          Backend                                           |                                         Backend                                          |                                      Server/Backend                                      |                                         Frontend                                         |             
-| :----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | 
-| ![image](https://github.com/user-attachments/assets/206f2793-20b5-4fed-a80c-6d33d5460396)  | ![image](https://github.com/user-attachments/assets/b61d0958-86ec-461a-ac2f-9ded933728eb) | ![image](https://github.com/user-attachments/assets/a163d910-d222-4a1d-a972-6b2898252a47)| ![image](https://github.com/user-attachments/assets/7613baec-3a06-488c-9128-1375967fdc49)| 
-|                            [김원일](https://github.com/wonilkim0517)                            |                           [서영덕](https://github.com/asdfg6548)                           |                           [강건](https://github.com/IWBNN)                           |                         [프론트](https://github.com/tigerlcw)                          |   
-          |                           
+|                                        Backend                                         |                                        Backend                                         |                                     Server/Backend                                     |                                        Frontend                                        |
+| :------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/206f2793-20b5-4fed-a80c-6d33d5460396" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/b61d0958-86ec-461a-ac2f-9ded933728eb" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/a163d910-d222-4a1d-a972-6b2898252a47" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/7613baec-3a06-488c-9128-1375967fdc49" width="100" height="100"> |
+|                         [김원일](https://github.com/wonilkim0517)                     |                        [서영덕](https://github.com/asdfg6548)                          |                       [강건](https://github.com/IWBNN)                               |                     [프론트](https://github.com/tigerlcw)                            |
+                 
 
 ## 📝 프로젝트 회고록
 <img width="1720" alt="image" src="https://github.com/user-attachments/assets/3f9c56cd-9ef2-45ef-9777-a2ae26c1b112">
