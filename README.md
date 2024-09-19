@@ -77,8 +77,8 @@
 
 |                                          Backend                                           |                                         Backend                                          |                                         Server/Backend                                          |                                         Frontend                                         |             
 | :----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | 
-|  | ![Uploading image.png…]()
- |  |  | 
+| ![image](https://github.com/user-attachments/assets/5a837494-e328-4f5e-86ee-2207533e11f4)
+ |  |  |  | 
 |  | ![image](https://github.com/user-attachments/assets/b61d0958-86ec-461a-ac2f-9ded933728eb)
  |  |  | 
 |                            [김원일](https://github.com/wonilkim0517)                            |                           [서영덕](https://github.com/asdfg6548)                           |                          [강건](https://github.com/IWBNN)                          |                         [프론트](https://github.com/tigerlcw)                          |                      )                          |                           
