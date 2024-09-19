@@ -21,9 +21,9 @@
 
 ![메인페이지](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.32.09.png?alt=media&token=b2d5b84a-eaf0-4f57-9e82-0dda2ee080cb)
 
-- **양식 선택** : 새 양식, 기본 포트폴리오 양식 선택
+- **게시판** : 게시판 목록 및 게시판 조회
 
-![선택페이지](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/Image%2Fselect.png?alt=media&token=05794943-9657-40bf-ad36-d3bdbb895d84)
+![게시판](https://github.com/user-attachments/assets/87bb72ee-cefc-4bcf-8ef6-66caea67ee9d)
 
 - **양식 미리보기** : 양식 미리보기 후 불러오기가 가능하며, 좋아요 기능 적용 
 
