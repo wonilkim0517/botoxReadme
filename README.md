@@ -30,15 +30,13 @@
 
 ![게시판](https://github.com/user-attachments/assets/87bb72ee-cefc-4bcf-8ef6-66caea67ee9d)
 
-- **채팅** : WebSocket을 활용하여 채팅 기능 구현
+- **채팅** : 유저들 간의 채팅 기능 구현
 
 ![채팅](https://github.com/user-attachments/assets/7ee34f54-182e-447d-a2c1-f0cc2d0d084a)
 
-- **음성 채팅** : WebRTC를 활용하여 음성 채팅 기능 구현
+- **음성 채팅** : 유저들 간의 음성 채팅 기능 구현
 
-![음성채팅](https://github.com/user-attachments/assets/e3861a85-d60f-4433-8e02-b06e9eff1b82)
-
-
+![음성채팅](https://github.com/user-attachments/assets/61ab7e10-d8a7-4e74-9525-3fe0508ba897)
 
 <br/>
 
