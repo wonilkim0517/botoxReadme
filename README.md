@@ -17,9 +17,9 @@
 <br/>
 
 ## ⭐ 주요 기능
-- **메인페이지** : 인기 포트폴리오, 전체 포트폴리오, 학과별 포트폴리오 제공
+- **메인페이지** : 메인 페이지, 게임 종류 선택 가능
 
-![메인페이지](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.32.09.png?alt=media&token=b2d5b84a-eaf0-4f57-9e82-0dda2ee080cb)
+![메인페이지](https://github.com/user-attachments/assets/92fbf452-9bff-463b-bdbe-87345aa39348)
 
 - **게시판** : 게시판 목록 및 게시판 조회
 
