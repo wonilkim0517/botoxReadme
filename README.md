@@ -1,11 +1,12 @@
 <p align="middle" >
   <img width="200px;" src="https://github.com/user-attachments/assets/127e9c2b-d907-44ac-b2ee-70fc43c3ebf1"/>
 </p>
-<h1 aligin="middle">게임 매칭, 보이스채팅 사이트 "Botox"</h1>
+<h1 align="middle">Botox</h1>
+<h3 align="middle">게임 매칭, 보이스채팅 사이트</h3>
 
 <br>
 
-## 📝 프로젝트 소개 
+📝 프로젝트 소개 
 ![프로젝트 소개](https://github.com/user-attachments/assets/8809a73b-c62c-4f84-9d2e-14f53eced911)
 
 이 프로젝트는 보이스 채팅을 지원하지 않는 게임에서 친구들과 실시간으로 소통하고, 함께 게임할 친구를 쉽게 찾을 수 있는 솔루션을 제공합니다. 
